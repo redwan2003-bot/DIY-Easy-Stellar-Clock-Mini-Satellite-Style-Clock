@@ -1,8 +1,8 @@
 # DIY-Easy-Stellar-Clock-Mini-Satellite-Style-Clock
 
-Build your own Stellar Clock — a DIY mini satellite-style clock powered by ESP32-C3, Special thanks to Mohit Bhoite for the inspiration behind this build.
+Build your own Stellar Clock — a DIY mini satellite-style clock powered by ESP32-C3. 
 
-Features:
+##Features:
 
 📡 Automatic time update via Wi-Fi
 
@@ -14,5 +14,14 @@ Features:
 
 🚀 Unique spacecraft-inspired copper frame
 
+##Components:
+1. Copper wire 
+2. Battery 
+3. Type-C charging module 
+4. LED  
+5. ESP32-C3 
+6. OLED Display
+7. SHT31-D sensor
+8. Steel Blank Earring
+   
 
-![diagram](https://github.com/user-attachments/assets/4d986d54-bedc-4d70-9752-b34237c38777)
